@@ -1,0 +1,24 @@
+# Archivos temporales
+*.tmp
+*.swp
+
+# Archivos de configuración personal
+.vimrc
+.bashrc
+
+# Entornos virtuales
+venv/
+
+# Archivos de prueba
+*.test.js
+*.spec.js
+
+# Reportes de cobertura
+coverage/
+
+# Archivos de minificación
+*.min.js
+*.min.css
+
+# Archivos de la caché
+.cache/
